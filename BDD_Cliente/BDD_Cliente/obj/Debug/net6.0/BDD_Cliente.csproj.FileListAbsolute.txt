@@ -1,0 +1,15 @@
+D:\BDD_Practicas\BDD_Cliente\BDD_Cliente\bin\Debug\net6.0\BDD_Cliente.exe
+D:\BDD_Practicas\BDD_Cliente\BDD_Cliente\bin\Debug\net6.0\BDD_Cliente.deps.json
+D:\BDD_Practicas\BDD_Cliente\BDD_Cliente\bin\Debug\net6.0\BDD_Cliente.runtimeconfig.json
+D:\BDD_Practicas\BDD_Cliente\BDD_Cliente\bin\Debug\net6.0\BDD_Cliente.dll
+D:\BDD_Practicas\BDD_Cliente\BDD_Cliente\bin\Debug\net6.0\BDD_Cliente.pdb
+D:\BDD_Practicas\BDD_Cliente\BDD_Cliente\obj\Debug\net6.0\BDD_Cliente.csproj.AssemblyReference.cache
+D:\BDD_Practicas\BDD_Cliente\BDD_Cliente\obj\Debug\net6.0\BDD_Cliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\BDD_Practicas\BDD_Cliente\BDD_Cliente\obj\Debug\net6.0\BDD_Cliente.AssemblyInfoInputs.cache
+D:\BDD_Practicas\BDD_Cliente\BDD_Cliente\obj\Debug\net6.0\BDD_Cliente.AssemblyInfo.cs
+D:\BDD_Practicas\BDD_Cliente\BDD_Cliente\obj\Debug\net6.0\BDD_Cliente.csproj.CoreCompileInputs.cache
+D:\BDD_Practicas\BDD_Cliente\BDD_Cliente\obj\Debug\net6.0\BDD_Cliente.dll
+D:\BDD_Practicas\BDD_Cliente\BDD_Cliente\obj\Debug\net6.0\refint\BDD_Cliente.dll
+D:\BDD_Practicas\BDD_Cliente\BDD_Cliente\obj\Debug\net6.0\BDD_Cliente.pdb
+D:\BDD_Practicas\BDD_Cliente\BDD_Cliente\obj\Debug\net6.0\BDD_Cliente.genruntimeconfig.cache
+D:\BDD_Practicas\BDD_Cliente\BDD_Cliente\obj\Debug\net6.0\ref\BDD_Cliente.dll
